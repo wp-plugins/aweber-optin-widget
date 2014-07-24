@@ -11,12 +11,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Add an optin widget to your wordpress site. Very easy to setup. Customizations Ready
 
 == Description ==
-This plugin adds an Aweber Optin Widget to the wordpress. Users can enter their Aweber List Name and Form ID to connect the widget to that form. Other thatn that all options in widget panel are self explanatory and easy to understand. You can customize Optin Fields, Optin Text and Thank you page url from widget options.
+This plugin adds an Aweber Optin Widget to the wordpress. Users can enter their Aweber List Name and Form ID to connect the widget to that form. Other than that all options in widget panel are self explanatory and easy to understand. You can customize Optin Fields, Optin Text and Thank you page url from widget options.
 
 == Installation ==
 Install the plugin and activate. Then go to wordpress widgets and there you will see the Aweber Optin Widget
 
 == Screenshots ==
-1. Screenshot
-2. Screenshot
-3. Screenshot
+1. screenshot1
+2. screenshot2
+3. screenshot3
+4. screenshot4
+5. screenshot5
