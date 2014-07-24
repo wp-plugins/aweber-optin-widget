@@ -132,12 +132,12 @@
    
 		<p>
 			<label for="<?php echo $this->get_field_id( 'twb_frm_id' ); ?>">Aweber Form ID</label>
-			<input id="<?php echo $this->get_field_id( 'twb_frm_id' ); ?>" name="<?php echo $this->get_field_name( 'twb_frm_id' ); ?>" value="<?php echo $instance['twb_frm_id']; ?>" style="width:90%;" /><br /><a target="_blank" href="/images/form_id.png">Click Here to see where to find that</a>
+			<input id="<?php echo $this->get_field_id( 'twb_frm_id' ); ?>" name="<?php echo $this->get_field_name( 'twb_frm_id' ); ?>" value="<?php echo $instance['twb_frm_id']; ?>" style="width:90%;" /><br /><a target="_blank" href="/wp-content/plugins/twb_aweber_optin/images/form_id.png">Click Here to see where to find that</a>
 		</p>
 		
 		<p>
 			<label for="<?php echo $this->get_field_id( 'twb_list_name' ); ?>">Aweber List Name</label>
-			<input type="text" id="<?php echo $this->get_field_id( 'twb_list_name' ); ?>" name="<?php echo $this->get_field_name( 'twb_list_name' ); ?>" value="<?php echo $instance['twb_list_name']; ?>" style="width:90%;" /><br />Input list name only. <a target="_blank" href="/images/list_name.png">Click Here to see where to find that</a>
+			<input type="text" id="<?php echo $this->get_field_id( 'twb_list_name' ); ?>" name="<?php echo $this->get_field_name( 'twb_list_name' ); ?>" value="<?php echo $instance['twb_list_name']; ?>" style="width:90%;" /><br />Input list name only. <a target="_blank" href="/wp-content/plugins/twb_aweber_optin/images/list_name.png">Click Here to see where to find that</a>
 		</p>
 		
 		<p>
