@@ -17,8 +17,8 @@ This plugin adds an Aweber Optin Widget to the wordpress. Users can enter their 
 Install the plugin and activate. Then go to wordpress widgets and there you will see the Aweber Optin Widget
 
 == Screenshots ==
-1. screenshot1
-2. screenshot2
-3. screenshot3
-4. screenshot4
-5. screenshot5
+1. Screenshot
+2. Screenshot
+3. Screenshot
+4. Screenshot
+5. Screenshot
