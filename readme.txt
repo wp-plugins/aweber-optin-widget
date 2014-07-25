@@ -14,9 +14,9 @@ Add an optin widget to your wordpress site. Very easy to setup. Responsive Custo
 This plugin adds an Aweber Optin Widget to the wordpress. Users can enter their Aweber List Name and Form ID to connect the widget to that form. Other than that all options in widget panel are self explanatory and easy to understand. You can customize Optin Fields, Optin Text and Thank you page url from widget options.
 
 <strong>What's in new version?</strong>
-Added a colorpicker for optin button.<br />
-Fixed some bugs.<br />
-Updated the whole code.<br />
+    Added a colorpicker for optin button.
+    Fixed some bugs.
+    Updated the whole code.
 
 <strong>Use the CSS selectors below to override default form styles:</strong>
 
