@@ -1,4 +1,4 @@
-/*CSS version 1.0 
+/*CSS version 1.1
 Author: Abu Bakar
 Author URI: http://www.theweb-designs.com
 */
@@ -42,7 +42,6 @@ Author URI: http://www.theweb-designs.com
 
 .twb_widget .twb_btn {
 	width:100%;
-	background:#2BA6CB;
 	margin:5px 0;
 	padding:20px 40px; 
 	color:#fff;
@@ -62,8 +61,14 @@ Author URI: http://www.theweb-designs.com
 }
 
 .twb_widget .twb_btn:hover, .twb_widget .twb_btn:focus {
-	background:#2284A1;
 	color:#fdfdfd;
+	border:0;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	-ms-box-shadow:none;
+	-o-box-shadow:none;
+	box-shadow:none;
+	
 }
 
 p.spam-notice {
