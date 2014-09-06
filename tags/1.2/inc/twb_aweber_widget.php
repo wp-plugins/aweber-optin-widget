@@ -108,7 +108,7 @@ class twb_aweber_optin_widget extends WP_Widget {
 		
         <p>
 			<label for="<?php echo $this->get_field_id( 'twb_list_name' ); ?>"><?php _e('Aweber List ID'); ?></label><br />
-			<input type="text" id="<?php echo $this->get_field_id( 'twb_list_name' ); ?>" name="<?php echo $this->get_field_name( 'twb_list_name' ); ?>" value="<?php echo $instance['twb_list_name']; ?>" style="width:60%;" /> Input Unique List ID <a target="_blank" href="<?php echo site_url();?>/wp-content/plugins/simple-aweber-optin-widget-lite/images/list-id.jpg">Click Here to see where to find it.</a>
+			<input type="text" id="<?php echo $this->get_field_id( 'twb_list_name' ); ?>" name="<?php echo $this->get_field_name( 'twb_list_name' ); ?>" value="<?php echo $instance['twb_list_name']; ?>" style="width:60%;" /> Input Unique List ID <a target="_blank" href="<?php echo site_url();?>/wp-content/plugins/aweber-optin-widget/images/list-id.jpg">Click Here to see where to find it.</a>
 		</p>
         
 		<p>
