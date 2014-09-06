@@ -1,4 +1,4 @@
-=== Aweber Optin Widget - Responsive ===
+=== Simple Aweber Optin Widget - Responsive ===
 Contributors: absikandar
 Tags: aweber, optin, autoresponder, email, contacts, wordrpess, sidebar, widget, subscribe, subscriber
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEBXZCEYG3DQC
@@ -14,9 +14,9 @@ Add an optin widget to your wordpress site. Very easy to setup. Responsive Custo
 This plugin adds an Aweber Optin Widget to the wordpress. Users can enter their Aweber List Name and Form ID to connect the widget to that form. Other than that all options in widget panel are self explanatory and easy to understand. You can customize Optin Fields, Optin Text and Thank you page url from widget options.
 
 <strong>What's in new version?</strong>
-Added a colorpicker for optin button.
-Fixed some bugs.
-Updated the whole code.
+    Added a colorpicker for optin button.
+    Fixed some bugs.
+    Updated the whole code.
 
 <strong>Use the CSS selectors below to override default form styles:</strong>
 
