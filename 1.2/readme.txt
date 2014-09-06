@@ -35,10 +35,12 @@ Custom Widget that adds an aweber optin form on site. You can add an unlimited n
 
 <hr>
 
-<h2>Pro Version is also available</h2>
+<strong>Pro Version is also available ($7 only)</strong>
 
 <strong>What's included in Pro Version?</strong>
-Pro version includes all the features that are listed in Lite Version <strong>PlUS</strong>
+
+<p>Pro version includes all the features that are listed in Lite Version <strong>PlUS</strong></p>
+
 <ul>
 <li>Ability to change Main Background Color</li>
 <li>Ability to change Title and Subtitle Colors</li>
@@ -52,7 +54,8 @@ Pro version includes all the features that are listed in Lite Version <strong>Pl
 </ul>
     
 
-<strong>Live Demo:</strong>  http://theweb-designs.com/plugins/
+<strong>Live Demos:</strong>  http://theweb-designs.com/plugins/
+<strong>Purchase Pro Version</strong> http://theweb-designs.com/plugins/
 
 
 == Installation ==
