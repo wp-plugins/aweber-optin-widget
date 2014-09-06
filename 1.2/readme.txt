@@ -54,7 +54,7 @@ Custom Widget that adds an aweber optin form on site. You can add an unlimited n
 </ul>
     
 
-<strong>Live Demos:</strong>  http://theweb-designs.com/plugins/
+<strong>Live Demos:</strong>  http://theweb-designs.com/plugins/ <br>
 <strong>Purchase Pro Version</strong> http://theweb-designs.com/plugins/
 
 
