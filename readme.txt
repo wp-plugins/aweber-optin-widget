@@ -39,7 +39,7 @@ Custom Widget that adds an aweber optin form on site. You can add an unlimited n
 
 <strong>What's included in Pro Version?</strong>
 
-<p>Pro version includes all the features that are listed in Lite Version <strong>PlUS</strong></p>
+<p>Pro version includes all the features that are listed in Lite Version <strong>PLUS</strong></p>
 
 <ul>
 <li>Ability to change Main Background Color</li>
