@@ -58,14 +58,14 @@ class twb_aweber_optin_widget extends WP_Widget {
 			'twb_main_title' => 'Want to Learn How to Use Wordpress?',
 			'twb_sub_title' => 'Enter Your Emai Below to Get Started!',
 			'twb_list_name' => '',
-			'twb_ty_link' => 'http://',
+			'twb_ty_link' => '',
 			'twb_name_check' => 'off',
 			'twb_ph_name' => 'Enter Your First Name',
 			'twb_ph_email' => 'Enter Your Best Email',
 			'twb_ph_btn' => 'Yes! Let Me In',
 			'twb_ph_btn_color' => '#000000',
 			'twb_ph_btn_txt_color' => '#ffffff',
-			'twb_onlist_redirect_url' => 'http://') );
+			'twb_onlist_redirect_url' => '') );
 			$twb_main_title = $instance['twb_main_title'];
 			$twb_sub_title = $instance['twb_sub_title'];
 			$twb_list_name = strip_tags($instance['twb_list_name']);
@@ -108,7 +108,7 @@ class twb_aweber_optin_widget extends WP_Widget {
 		
         <p>
 			<label for="<?php echo $this->get_field_id( 'twb_list_name' ); ?>"><?php _e('Aweber List ID'); ?></label><br />
-			<input type="text" id="<?php echo $this->get_field_id( 'twb_list_name' ); ?>" name="<?php echo $this->get_field_name( 'twb_list_name' ); ?>" value="<?php echo $instance['twb_list_name']; ?>" style="width:60%;" /> Input Unique List ID <a target="_blank" href="<?php echo site_url();?>/wp-content/plugins/aweber-optin-widget/images/list-id.jpg">Click Here to see where to find it.</a>
+			<input type="text" id="<?php echo $this->get_field_id( 'twb_list_name' ); ?>" name="<?php echo $this->get_field_name( 'twb_list_name' ); ?>" value="<?php echo $instance['twb_list_name']; ?>" style="width:60%;" /> Input Unique List ID <a target="_blank" href="<?php echo site_url();?>/wp-content/plugins/simple-aweber-optin-widget-lite/images/list-id.jpg">Click Here to see where to find it.</a>
 		</p>
         
 		<p>
