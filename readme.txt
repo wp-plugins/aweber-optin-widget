@@ -4,7 +4,7 @@ Tags: aweber, optin, widget, responsive, forms, email, design, autoresponder, ne
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEBXZCEYG3DQC
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -67,3 +67,24 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 3. Screenshot
 4. Screenshot
 5. Screenshot
+
+== Changelog ==
+<strong>Version 1.4</strong>
+
+<ul>
+<li>Added back default CSS for Sub-Title</li>
+</ul>
+<hr />
+
+<strong>Version 1.3</strong>
+
+<ul>
+<li>Added Textarea field for Sub-Title</li>
+<li>Added support for HTML in Sub-Title</li>
+<li>Removed default CSS for Sub-Title. This enables users to add their own CSS in this area.</li>
+<li>Now users can move around Email and Name field using Tab on their keyboards.</li>
+<li>Fixed some small bugs.</li>
+</ul>
+
+== Upgrade Notice ==
+Please upgrade to version 1.4 because it includes some CSS fixes.
