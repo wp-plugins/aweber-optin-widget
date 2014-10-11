@@ -4,7 +4,7 @@ Tags: aweber, optin, widget, responsive, forms, email, design, autoresponder, ne
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEBXZCEYG3DQC
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.4
+Stable tag: 1.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,12 +69,19 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 5. Screenshot
 
 == Changelog ==
+<strong>Version 1.5</strong>
+
+<ul>
+<li>Loading of colorpicker fixed</li>
+<li>Fixed CSS to be more specific instead of what theme is being used</li>
+<li>Optimized PHP code</li>
+</ul>
+
 <strong>Version 1.4</strong>
 
 <ul>
 <li>Added back default CSS for Sub-Title</li>
 </ul>
-<hr />
 
 <strong>Version 1.3</strong>
 
@@ -87,4 +94,4 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 </ul>
 
 == Upgrade Notice ==
-Please upgrade to version 1.4 because it includes some CSS fixes.
+Please upgrade to version 1.5 because it includes many fixes.
