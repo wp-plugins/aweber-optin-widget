@@ -1,4 +1,4 @@
-=== Simple Aweber Optin Widget - Lite ===
+=== Simple Aweber Optin Widget ===
 Contributors: absikandar
 Tags: aweber, email marketing, optin, widget, responsive, form, email, design, autoresponder, analytics, mailing list, newsletter, webform, conversion, leads, list, sidebar, subscribe, contacts
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEBXZCEYG3DQC
