@@ -1,10 +1,10 @@
 === Simple Aweber Optin Widget - Lite ===
 Contributors: absikandar
-Tags: aweber, optin, widget, responsive, forms, email, design, autoresponder, newsletter, conversion, leads, list, sidebar, subscriber, contacts
+Tags: aweber, email marketing, optin, widget, responsive, form, email, design, autoresponder, analytics, mailing list, newsletter, webform, conversion, leads, list, sidebar, subscribe, contacts
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEBXZCEYG3DQC
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.5
+Stable tag: 1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -69,11 +69,18 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 5. Screenshot
 
 == Changelog ==
+<strong>Version 1.6</strong>
+
+<ul>
+<li>Spam Notice CSS fixed!</li>
+</ul>
+
+
 <strong>Version 1.5</strong>
 
 <ul>
 <li>Loading of colorpicker fixed</li>
-<li>Fixed CSS to be more specific instead of what theme is being used</li>
+<li>Fixed CSS to be more specific inspite of what theme is being used</li>
 <li>Optimized PHP code</li>
 </ul>
 
@@ -94,4 +101,4 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 </ul>
 
 == Upgrade Notice ==
-Please upgrade to version 1.5 because it includes many fixes.
+Please upgrade to version 1.6 because it includes many fixes.
