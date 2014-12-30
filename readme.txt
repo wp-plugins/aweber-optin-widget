@@ -3,12 +3,12 @@ Contributors: absikandar
 Tags: aweber, email marketing, optin, widget, responsive, form, email, design, autoresponder, analytics, mailing list, newsletter, webform, conversion, leads, list, sidebar, subscribe, contacts
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEBXZCEYG3DQC
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 1.6
+Tested up to: 4.1
+Stable tag: 1.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This plugin adds an Aweber optin form widget to your wordpress site. Very easy to setup! Responsive Designs and Higly Customizable!
+This plugin adds an Aweber optin widget to your wordpress site. Very easy to setup! Responsive Designs and Higly Customizable!
 
 == Description ==
 A Custom Widget plugin that adds an Aweber Optin Form on site. You can add unlimited forms on your site using this widget plugin. The form design and look can be easily customized in widget settings. Its Responsive , very Easy to Use and comes with Powerful Features. The aweber forms created by this widget plugin are generated locally and do not load javascripts and css from aweber server. If you use this plugin, then you do not need to create any form inside your Aweber account. Rather go to widget settings and input the "Unique List ID" of the aweber list you want to add subscribers in and that's all. Subscribers will start adding to that list in Aweber.
@@ -17,13 +17,13 @@ A Custom Widget plugin that adds an Aweber Optin Form on site. You can add unlim
 <strong>What's included in Lite Version?</strong>
 <ul>
 <li>Custom Title and Subtitle</li>
+<li>Custom Placeholder text for Name Field</li>
+<li>Custom Placeholder text for Email Field</li>
+<li>Custom Button Text</li>
 <li>Ability to change button color</li>
 <li>Ability to change button text color</li>
 <li>Custom Thank you page url</li>
 <li>Custom redirect url for already subscribed users</li>
-<li>Custom Placeholder text for Name Field</li>
-<li>Custom Placeholder text for Email Field</li>
-<li>Custom Button Text</li>
 </ul>
 
 <strong>Use the CSS selectors below to override default form styles in Lite Version:</strong>
@@ -53,9 +53,10 @@ A Custom Widget plugin that adds an Aweber Optin Form on site. You can add unlim
 <li>Premium Support</li>
 </ul>
     
-<strong><a href="http://theweb-designs.com/plugins/" target="_blank" title="Purchase Pro Version">Purchase Pro Version Here</a></strong>
+<strong><a href="http://plugins.theweb-designs.com/simple-aweber-optin-widget/" target="_blank" title="Purchase Pro Version">Purchase Pro Version Here</a></strong>
 
-<strong>Live Demos:</strong>  http://theweb-designs.com/plugins/ <br>
+<strong><a href="http://plugins.theweb-designs.com/simple-aweber-optin-widget/" target="_blank" title="Purchase Pro Version">LIVE DEMOS</a></strong>
+
 
 
 == Installation ==
@@ -69,6 +70,15 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 5. Screenshot
 
 == Changelog ==
+<strong>Version 1.7</strong>
+
+<ul>
+<li>Code optimized for faster loading.</li>
+<li>Minor CSS and other Bugs Fixes.</li>
+</ul>
+
+
+
 <strong>Version 1.6</strong>
 
 <ul>
@@ -101,4 +111,4 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 </ul>
 
 == Upgrade Notice ==
-Please upgrade to version 1.6 because it includes many fixes.
+Please upgrade to version 1.7 because it includes many fixes.
