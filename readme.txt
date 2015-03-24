@@ -4,7 +4,7 @@ Tags: aweber, email marketing, optin, widget, responsive, form, email, design, a
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEBXZCEYG3DQC
 Requires at least: 3.0.1
 Tested up to: 4.1
-Stable tag: 1.7
+Stable tag: 1.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,15 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 5. Screenshot
 
 == Changelog ==
+
+<strong>Version 1.8</strong>
+
+<ul>
+<li>Some Minor Fixes</li>
+</ul>
+
+
+
 <strong>Version 1.7</strong>
 
 <ul>
