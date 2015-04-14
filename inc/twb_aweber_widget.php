@@ -25,9 +25,9 @@ class twb_aweber_optin_widget extends WP_Widget {
 		$twb_widget_ID = $this->id_base .'-'. $this->number;
 	?>
 	<script>
-		jQuery(document).ready(function() {
-			jQuery('form#<?php echo $twb_widget_ID; ?>').each(function() {
-        		jQuery(this).validate({       // initialize plugin on each form
+		jQuery(document).ready(function($) {
+			$('form#<?php echo $twb_widget_ID; ?>').each(function() {
+        		$(this).validate({       // initialize plugin on each form
         		});
     		});
 		});
@@ -41,7 +41,7 @@ class twb_aweber_optin_widget extends WP_Widget {
 		<div class="twb_main_title" style="color:<?php echo esc_attr('#ffffff'); ?>; font-size:<?php echo esc_attr('30px'); ?>;"> <?php echo $twb_main_title; ?></div>
         <div class="twb_sub_title" style="color:<?php echo esc_attr('#f4f4f4'); ?>;"><?php echo $twb_sub_title;?></div>
         <?php 
-		    $output = '<form class="twb_wrapper" id="'.$twb_widget_ID.'" method="post" name="'.$twb_widget_ID.'"  action="http://www.aweber.com/scripts/addlead.pl">';
+		    $output = '<form class="twb_wrapper" id="'.$twb_widget_ID.'" method="post" name="'.$twb_widget_ID.'"  action="//www.aweber.com/scripts/addlead.pl">';
 			$output .= '<div style="display: none;">
 			<input type="hidden" name="meta_split_id" value="" />
 			<input type="hidden" name="listname" value="' .$twb_list_name. '" />
@@ -248,7 +248,7 @@ class twb_aweber_optin_widget extends WP_Widget {
 	<!-- Advanced -->
 	
 	<div style="clear:both; padding-bottom:10px;"></div>
-    <a href="http://plugins.theweb-designs.com/simple-aweber-optin-widget/" target="_blank" title="Buy Pro Version"><h2>Buy Pro Version!</h2></a>
+    <a href="//plugins.theweb-designs.com/simple-aweber-optin-widget/" target="_blank" title="Buy Pro Version"><h2>Buy Pro Version!</h2></a>
     <div style="clear:both; padding-bottom:30px;"></div>
 	
 	<?php }

@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: Simple Aweber Optin Widget - Lite
-Plugin URI: http://theweb-designs.com/plugins/simple-aweber-optin-widget/
+Plugin URI: http://plugins.theweb-designs.com/simple-aweber-optin-widget/
 Description: Custom Widget that adds an aweber optin form on site. You can add an unlimited number of forms using this widget plugin. The form design and look can be easily controlled in the widget settings. Its Responsive , very Easy to Use and comes with Powerful Features. The aweber forms created by this widget plugin are completely responsive and does not load javascripts and css from aweber server.
 Author: Abu Bakar
 Author URI: http://www.theweb-designs.com
-Version: 1.4
+Version: 1.9
 License: GNU General Public License version 2.0
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
@@ -14,6 +14,29 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 if (!defined('ABSPATH')) { 
 	echo "Oops! No direct access please :)";
 	exit; 
+}
+
+/* Display PRO purchase notice*/
+add_action('admin_notices', 'twb_admin_notice');
+function twb_admin_notice() {
+	global $current_user ;
+        $user_id = $current_user->ID;
+        /* Check that the user hasn't already clicked to ignore the message */
+	if ( ! get_user_meta($user_id, 'twb_update_notice') ) {
+        echo '<div class="updated"><p>'; 
+        printf(__('PRO Version of Simple Aweber Optin Widget is also available. <a href="//plugins.theweb-designs.com/simple-aweber-optin-widget/" target="_blank">Click Here to Purchase it and Unlock All features!</a> | <a href="%1$s">Hide Notice</a>'), '?twb_update_notice=0');
+        echo "</p></div>";
+	}
+}
+
+add_action('admin_init', 'twb_update_notice');
+function twb_update_notice() {
+	global $current_user;
+        $user_id = $current_user->ID;
+        /* If user clicks to ignore the notice, add that to their user meta */
+        if ( isset($_GET['twb_update_notice']) && '0' == $_GET['twb_update_notice'] ) {
+             add_user_meta($user_id, 'twb_update_notice', 'true', true);
+	}
 }
 
 // Register Frontend styles
