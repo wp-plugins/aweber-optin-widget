@@ -13,6 +13,8 @@ This plugin adds an Aweber optin widget to your wordpress site. Very easy to set
 == Description ==
 A Custom Widget plugin that adds an Aweber Optin Form on site. You can add unlimited forms on your site using this widget plugin. The form design and look can be easily customized in widget settings. Its Responsive , very Easy to Use and comes with Powerful Features. The aweber forms created by this widget plugin are generated locally and do not load javascripts and css from aweber server. If you use this plugin, then you do not need to create any form inside your Aweber account. Rather go to widget settings and input the "Unique List ID" of the aweber list you want to add subscribers in and that's all. Subscribers will start adding to that list in Aweber.
 
+<strong><a href="http://plugins.theweb-designs.com/simple-aweber-optin-widget/" target="_blank" title="Purchase Pro Version">LIVE DEMOS</a></strong>
+
 
 <strong>What's included in Lite Version?</strong>
 <ul>
@@ -54,9 +56,6 @@ A Custom Widget plugin that adds an Aweber Optin Form on site. You can add unlim
 </ul>
     
 <strong><a href="http://plugins.theweb-designs.com/simple-aweber-optin-widget/" target="_blank" title="Purchase Pro Version">Purchase Pro Version Here</a></strong>
-
-<strong><a href="http://plugins.theweb-designs.com/simple-aweber-optin-widget/" target="_blank" title="Purchase Pro Version">LIVE DEMOS</a></strong>
-
 
 
 == Installation ==
