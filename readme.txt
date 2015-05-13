@@ -2,9 +2,9 @@
 Contributors: absikandar
 Tags: aweber, email marketing, optin, widget, responsive, form, email, design, autoresponder, analytics, mailing list, newsletter, webform, conversion, leads, list, sidebar, subscribe, contacts
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=AEBXZCEYG3DQC
-Requires at least: 3.0.1
-Tested up to: 4.1
-Stable tag: 1.9
+Requires at least: 2.9
+Tested up to: 4.2.2
+Stable tag: 1.10
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,7 +35,7 @@ A Custom Widget plugin that adds an Aweber Optin Form on site. You can add unlim
 
 <hr>
 
-<strong>Pro Version is also available ($7 only)</strong>
+<strong>Pro Version is also available ($3.95 only)</strong>
 
 <strong>What's included in Pro Version?</strong>
 
@@ -70,6 +70,15 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 5. Screenshot
 
 == Changelog ==
+
+
+<strong>Version 1.10</strong>
+
+<ul>
+<li>Compatibility checked with Wordpress Version 4.2.2</li>
+</ul>
+
+
 
 <strong>Version 1.9</strong>
 
@@ -129,4 +138,4 @@ Install the plugin and activate. Then go to wordpress widgets and there you will
 </ul>
 
 == Upgrade Notice ==
-Please upgrade to version 1.7 because it includes many fixes.
+Please upgrade to version 1.10 because it includes many fixes.
